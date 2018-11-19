@@ -1634,7 +1634,7 @@ Use ```$ git check-ignore -v filename``` to check why the file cannot be added b
 
 ## V. Other tutorials  ##
 
-Please contact with Peiyi Xiao if you are interested at any of following tutorials.
+Please contact with Peiyi Xiao if you are interested at any of following tutorials or visit my GITHUB https://github.com/xiaopeiyi0704
 
 Spring boot (Spring boot 3+, REST, Spring data JPA, Bootstrap) ----- draft completed.
 
